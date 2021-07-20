@@ -5,7 +5,7 @@ int main(){
     string lastName = "Choudhary";
     string fullName = firstName + lastName;
     cout<< fullName <<endl;
-    //adding a space between firstName and lastName 
+    //adding a space between firstName nad lastName 
      fullName = firstName + " "+ lastName;
     cout<< fullName <<endl;
     //using append()
